@@ -1,0 +1,13 @@
+.thumbnails > img {
+  width: 100px;
+  height: 100px;
+}
+
+.main-img {
+  width: 300px;
+  height: 300px;
+}
+
+img:hover {
+  cursor: pointer;
+}/*# sourceMappingURL=main.css.map */
